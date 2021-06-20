@@ -1,16 +1,16 @@
 <?php 
 //ip de la pc servidor base de datos
-define("DB_HOST", "z5zm8hebixwywy9d.cbetxkdyhwsb.us-east-1.rds.amazonaws.com");
+define("DB_HOST", "wcwimj6zu5aaddlj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com");
 
 // nombre de la base de datos
-define("DB_NAME", "o2a74u49aegrcmc3");
+define("DB_NAME", "v8zq104n2zskr671");
 
 
 //nombre de usuario de base de datos
-define("DB_USERNAME", "nw2dpetrzcp7hwd4");
+define("DB_USERNAME", "rfkitdlccccs6hsl");
 
 //conraseña del usuario de base de datos
-define("DB_PASSWORD", "vbb5iuwcrv6vepr6");
+define("DB_PASSWORD", "vc8rgjl8fdcgdlnq");
 
 //codificacion de caracteres
 define("DB_ENCODE", "utf8");
